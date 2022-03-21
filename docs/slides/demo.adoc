@@ -17,8 +17,8 @@ ifndef::backend[:backend: html5]
 [background-image="obb.jpg",background-opacity="0.7", background-size="cover"]
 == Motivation
 
-* es gibt drei voneinander abnhängige Programme, die die Aufnahme
-und Auswertung der Daten übenehmen
+* es gibt drei voneinander abhängige Programme, die die Aufnahme
+und Auswertung der Daten übernehmen
 
 * diese Programme können nur von einigen wenigen Fachkräften benutzt werden
 
