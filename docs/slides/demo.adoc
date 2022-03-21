@@ -15,7 +15,7 @@ ifndef::backend[:backend: html5]
 [transition="zoom", %notitle]
 == Motivation
 
-image::oebb.jpg[background, size=cover]
+image::obb.jpg[background, size=cover, opacity=0.7]
 
 * es gibt drei voneinander abnhängige Programme, die die Aufnahme
 und Auswertung der Daten übenehmen
@@ -25,7 +25,7 @@ und Auswertung der Daten übenehmen
 [transition="zoom", %notitle]
 == Ziele
 
-image::oebb.jpg[background, size=cover]
+image::obb.jpg[background, size=cover, opacity=0.7]
 
 * eine Vereinfachung der Bedienung des Prüfstandes
 
@@ -36,19 +36,19 @@ image::oebb.jpg[background, size=cover]
 [transition="zoom", %notitle]
 == Systemarchitektur
 
-image::oebb.jpg[background, size=cover]
+image::obb.jpg[background, size=cover, opacity=0.7]
 image::sys.png[1280, 780]
 
 [transition="zoom", %notitle]
 == UseCases
 
-image::oebb.jpg[background, size=cover]
+image::obb.jpg[background, size=cover, opacity=0.7]
 image::asuqz_anforderungen.png[1280, 780]
 
 [transition="zoom", %notitle]
 == Technologien
 
-image::oebb.jpg[background, size=cover]
+image::obb.jpg[background, size=cover, opacity=0.7]
 
 * C# (Backend)
 
@@ -59,6 +59,6 @@ image::oebb.jpg[background, size=cover]
 [transition="zoom", %notitle]
 == Live Demo
 
-image::oebb.jpg[background, size=cover, background-opacity="0.3"]
+image::obb.jpg[background, size=cover, opacity=0.7]
 
 https://localhost:4200/[ASUQZ]
