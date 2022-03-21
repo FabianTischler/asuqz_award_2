@@ -6,6 +6,7 @@ ifndef::backend[:backend: html5]
 :uri-config: https://github.com/asciidoctor/asciidoctor/blob/master/compat/asciidoc.conf
 
 [transition="zoom", %notitle]
+[background-image="obb.jpg",background-opacity="0.7", background-size="cover"]
 == Team
 
 * Tischler Fabian (5AHIF)
@@ -13,9 +14,8 @@ ifndef::backend[:backend: html5]
 * Trinkl Philip (5AHIF)
 
 [transition="zoom", %notitle]
+[background-image="obb.jpg",background-opacity="0.7", background-size="cover"]
 == Motivation
-
-image::obb.jpg[background, size=cover, opacity=0.7]
 
 * es gibt drei voneinander abnhängige Programme, die die Aufnahme
 und Auswertung der Daten übenehmen
@@ -23,9 +23,8 @@ und Auswertung der Daten übenehmen
 * diese Programme können nur von einigen wenigen Fachkräften benutzt werden
 
 [transition="zoom", %notitle]
+[background-image="obb.jpg",background-opacity="0.7", background-size="cover"]
 == Ziele
-
-image::obb.jpg[background, size=cover, opacity=0.7]
 
 * eine Vereinfachung der Bedienung des Prüfstandes
 
@@ -34,21 +33,20 @@ image::obb.jpg[background, size=cover, opacity=0.7]
 * eine verbesserte Visualiserung der Daten
 
 [transition="zoom", %notitle]
+[background-image="obb.jpg",background-opacity="0.7", background-size="cover"]
 == Systemarchitektur
 
-image::obb.jpg[background, size=cover, opacity=0.7]
 image::sys.png[1280, 780]
 
 [transition="zoom", %notitle]
+[background-image="obb.jpg",background-opacity="0.7", background-size="cover"]
 == UseCases
 
-image::obb.jpg[background, size=cover, opacity=0.7]
 image::asuqz_anforderungen.png[1280, 780]
 
 [transition="zoom", %notitle]
+[background-image="obb.jpg",background-opacity="0.7", background-size="cover"]
 == Technologien
-
-image::obb.jpg[background, size=cover, opacity=0.7]
 
 * C# (Backend)
 
@@ -57,8 +55,7 @@ image::obb.jpg[background, size=cover, opacity=0.7]
 * Git (Version Control)
 
 [transition="zoom", %notitle]
+[background-image="obb.jpg",background-opacity="0.7", background-size="cover"]
 == Live Demo
-
-image::obb.jpg[background, size=cover, opacity=0.7]
 
 https://localhost:4200/[ASUQZ]
